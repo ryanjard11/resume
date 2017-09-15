@@ -1,4 +1,13 @@
 body  {
     background-image: url("images/background.jpg");
-    background-position: cover;
+    background-position: fixed;
+    background-size: cover;
+    background-repeat: none;
+}
+h1 {
+    text-align: center;
+}
+
+.contact {
+    text-align: center;
 }
