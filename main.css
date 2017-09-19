@@ -4,18 +4,21 @@ body  {
     background-size: cover;
     background-repeat: none;
 }
-h1 {
-    text-align: center;
+h1  {
+    text-align: left;
 }
 
-.contact {
+#job-title {
     text-align: center;
+}
+.contact {
+    text-align: left;
 }
 
 header {
     padding-top: 50px;
 }
 img {
-    margin: auto;
+    margin: center;
 
 }
